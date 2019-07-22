@@ -1,0 +1,21 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "hapi/hapi.d.ts": {
+      "commit": "b10e5ade29708bb0a7d21916a9fe289973520e89"
+    },
+    "node/node.d.ts": {
+      "commit": "55c750ace821f85e6643bbdb249dbd0b15a3df78"
+    },
+    "socket.io/socket.io.d.ts": {
+      "commit": "55c750ace821f85e6643bbdb249dbd0b15a3df78"
+    },
+    "cli-color/cli-color.d.ts": {
+      "commit": "4ba57e605bd71bf7248de65aac0b4f50e3eb1c9e"
+    }
+  }
+}

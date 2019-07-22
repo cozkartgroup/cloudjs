@@ -1,0 +1,49 @@
+{
+  "_from": "cloud-js",
+  "_id": "cloud-js@0.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-a6G/Sb7TDFfCSbHoAhhYlK9IapI=",
+  "_location": "/cloud-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cloud-js",
+    "name": "cloud-js",
+    "escapedName": "cloud-js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cloud-js/-/cloud-js-0.0.7.tgz",
+  "_shasum": "6ba1bf49bed30c57c249b1e802185894af486a92",
+  "_spec": "cloud-js",
+  "_where": "C:\\Users\\John",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0",
+    "mongodb": "^2.1.7"
+  },
+  "deprecated": false,
+  "description": "\"# cloudjs\"",
+  "devDependencies": {
+    "dts-generator": "^1.7.0",
+    "ts-loader": "^0.8.1",
+    "typescript": "^1.8.7",
+    "webpack": "^1.12.14"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cloud-js",
+  "scripts": {
+    "start": "node build/server.js"
+  },
+  "version": "0.0.7"
+}
