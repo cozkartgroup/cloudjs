@@ -29,7 +29,7 @@
     "cli-color": "^1.1.0",
     "hapi": "^13.0.0",
     "inert": "^3.2.0",
-    "mongodb": "^2.1.7"
+    "mongodb": "^3.6.1"
   },
   "deprecated": false,
   "description": "\"# cloudjs\"",
